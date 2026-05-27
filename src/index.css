@@ -5,7 +5,7 @@
   --color-primary: #12102a;
 
   /* Container configuration */
-  --breakpoint-container: 100%;
+  --breakpoint-container: 1280px; /* ⚡ FIX: Sets a safe, modern desktop maximum constraint */
   --container-padding: 2rem;
   --container-padding-md: 3rem;
 }
